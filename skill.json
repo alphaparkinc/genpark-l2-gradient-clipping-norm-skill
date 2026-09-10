@@ -1,0 +1,14 @@
+{
+  "name": "genpark-l2-gradient-clipping-norm-skill",
+  "version": "1.0.0",
+  "description": "Global L2 norm adaptive gradient clipping engine to mitigate exploding gradients during deep neural network training.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "gradient-clipping",
+    "l2-norm",
+    "exploding-gradients",
+    "training-stability",
+    "deep-learning"
+  ]
+}
